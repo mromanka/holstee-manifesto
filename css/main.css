@@ -1,0 +1,103 @@
+main {
+	background: lightgrey;
+	width: 500px;
+	padding: 10px;
+	overflow: auto;
+	}
+aside {
+	float: left;
+	width: 250px;
+}
+
+.text-common {
+	text-align: center;
+	line-height: 110%;
+}
+
+.span1 {
+	font-family: 'Anton', sans-serif;
+	font-size: 18px;
+	font-variant: small-caps;
+	letter-spacing: 5px;
+}
+
+.span2 {
+	font-family: 'Special Elite', cursive;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 150%;
+}
+
+.div1 {
+	background: gold;
+	width: 200px;
+	padding: 20px;
+	margin: 5px 2px 5px 5px;
+	height: 245px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+}
+.div2 {
+	background: cadetblue;
+	width: 200px;
+	padding: 20px;
+	margin: 5px 2px 5px 5px;
+	height: 100px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+}
+.div3 {
+	background: mistyrose;
+	width: 200px;
+	padding: 20px;
+	margin: 5px 2px 5px 5px;
+	height: 100px;
+	font-family: 'Dancing Script', cursive;
+	font-size: 18px;
+	letter-spacing: 2px;
+}
+.div4 {
+	background: aliceblue;
+	width: 200px;
+	padding: 20px;
+	margin: 5px 2px 5px 5px;
+	height: 100px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+}
+.div5 {
+	background: lavender;
+	width: 200px;
+	padding: 20px;
+	margin: 5px 5px 5px 2px;
+	height: 100px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+}
+.div6 {
+	background: mediumaquamarine;
+	width: 200px;
+	padding: 20px;
+	margin: 5px 5px 5px 2px;
+	height: 100px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+}
+.div7 {
+	background: lightyellow;
+	width: 200px;
+	padding: 20px;
+	margin: 5px 5px 5px 2px;
+	height: 100px;
+	font-family: 'Dancing Script', cursive;
+	font-size: 18px;
+}
+.div8 {
+	background: indianred;
+	width: 200px;
+	padding: 20px;
+	margin: 5px 5px 5px 2px;
+	height: 245px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+}
